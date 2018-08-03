@@ -1,14 +1,3 @@
-# HelloWorld
-
-*Description:*
-This is a README for my Hello World first programs using different languages.
-
-This is also to help me in continually using git version control to keep myself fresh.
-
----
-### Java
-
-```java
 public class Hello {
     public static void main(String[] args) {
 
@@ -27,4 +16,4 @@ public class Hello {
         System.out.println(myDifference);
     }
 }
-```
+
